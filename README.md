@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
