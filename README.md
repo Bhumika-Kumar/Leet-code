@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
