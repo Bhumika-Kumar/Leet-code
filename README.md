@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0190-reverse-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
