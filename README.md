@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
