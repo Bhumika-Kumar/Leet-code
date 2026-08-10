@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -68,13 +70,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
