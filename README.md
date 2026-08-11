@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
