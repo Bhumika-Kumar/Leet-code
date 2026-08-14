@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 ## Counting
 |  |
 | ------- |
