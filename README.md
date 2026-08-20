@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
+| [2129-capitalize-the-title](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2129-capitalize-the-title) |
 ## Sorting
 |  |
 | ------- |
