@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0057-insert-interval) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
