@@ -7,12 +7,12 @@ class Solution(object):
         """
         hash=[0]*128
         for i in magazine:
-            hash[ord(i)-ord('0')]+=1
+            hash[ord(i)]+=1
         for i in ransomNote:
-            hash[ord(i)-ord('0')]-=1
+            hash[ord(i)]-=1
         for i in hash:
             if i<0:
                 return False
         return True
-        
+
         
