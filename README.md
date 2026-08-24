@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
 ## Counting
