@@ -4,11 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        map={}
+        # map={}
+        # for num in nums:
+        #     map[num]=map.get(num,0)+1
+        # for key,value in map.items():
+        #     if value==1:
+        #         return key
+        # return -1
+
+        res=0
         for num in nums:
-            map[num]=map.get(num,0)+1
-        for key,value in map.items():
-            if value==1:
-                return key
-        return -1
+            res^=num
+        return res
         
