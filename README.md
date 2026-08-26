@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
