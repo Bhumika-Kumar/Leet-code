@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
