@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0371-sum-of-two-integers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0338-counting-bits) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -177,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
