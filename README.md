@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0128-longest-consecutive-sequence) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
