@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
