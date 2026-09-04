@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
