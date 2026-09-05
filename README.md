@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0324-wiggle-sort-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0324-wiggle-sort-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
