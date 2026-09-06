@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0367-valid-perfect-square) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
@@ -244,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
