@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
