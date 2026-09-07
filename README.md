@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
