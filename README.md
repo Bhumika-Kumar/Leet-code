@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 ## Divide and Conquer
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
