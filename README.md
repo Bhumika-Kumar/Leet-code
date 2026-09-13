@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0048-rotate-image) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0338-counting-bits) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0125-valid-palindrome) |
@@ -277,8 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
