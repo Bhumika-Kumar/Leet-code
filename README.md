@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0278-first-bad-version) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
