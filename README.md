@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2129-capitalize-the-title) |
 ## Sorting
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Counting
 |  |
 | ------- |
