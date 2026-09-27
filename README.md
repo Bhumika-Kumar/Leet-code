@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2129-capitalize-the-title) |
 ## Sorting
@@ -317,10 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
