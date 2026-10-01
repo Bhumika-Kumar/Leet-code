@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1200-minimum-absolute-difference) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Bhumika-Kumar/Leet-code/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0645-set-mismatch) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Bhumika-Kumar/Leet-code/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Bhumika-Kumar/Leet-code/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Greedy
 |  |
 | ------- |
