@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0917-reverse-only-letters) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
