@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Bhumika-Kumar/Leet-code/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhumika-Kumar/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
